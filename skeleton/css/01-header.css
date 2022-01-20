@@ -1,2 +1,24 @@
 /* PHASE 1: Header */
 
+body {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+.header {
+    background-color: red;
+    color: white;
+}
+
+.header-nav {
+    
+}
+
+.header-logo {
+
+}
+
+.header-list {
+
+}
